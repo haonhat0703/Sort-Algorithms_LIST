@@ -7,6 +7,7 @@ Trong bài viết này, mình xin trình bày về một vài thuật toán sắ
 Với mỗi giải thuật, tớ sẽ cố gắng trình bày và làm rõ chúng theo bố cục với những nội chính sau : 
 + Tư tưởng của giải thuật
 + Mã nguồn ( được minh họa trên một vài ngôn ngữ lập trình)
++ Để có các kiến thức căn bản nhất về các thuật toán sắp xếp hãy đọc bài viết: https://github.com/haonhat0703/SortAlgorithms
 
 ## **1.	Thuật toán Merge Sort sử dụng danh sách liên kết đơn**
 ## **2.	Thuật toán Quick Sort sử dụng danh sách liên kết đơn**
