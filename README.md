@@ -1,4 +1,4 @@
-# Sort Algorithms with List
+# Sort Algorithms with Linked List
 
 ### *Xin chào mọi người,* 
 
